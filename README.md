@@ -1,3 +1,1 @@
-# Olá, seja bem vindo ao meu perfil!!
-
-Prazer, me chamo Kerlon
+# Olá, seja bem vindo ao meu perfil!
