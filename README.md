@@ -4,4 +4,4 @@
 
 💥 No meu primeiro curso de programação, descobri esse mundo incrível e no qual eu desejo continuar estudando e aprofundando no futuro, aprendendo um básico de pensamentos lógicos e um pouco da linguagem de programação Java, me interesando mais, entrei em um curso de desenvolvimento web front-end. 
 
-🗝️ Quero continuar estudando e me aprofundando cada vez mais nessa área. 😉
+🗝️ Quero continuar estudando e me aprofundando cada vez mais nessa incrivel área. 😉
