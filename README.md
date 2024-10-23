@@ -1,4 +1,4 @@
-# ✨ Olá Devs, sejam bem vindos ao meu perfil do Github! 👋
+# ✨ Olá, seja bem vindo ao meu perfil do Github! 👋
 
 ❤️ Sou um amante da área de tecnologia, fiz cursos de programação e atualmente estou cursando técnico em informática. 
 
